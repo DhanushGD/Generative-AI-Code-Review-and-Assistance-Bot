@@ -82,7 +82,7 @@ Create a .env file in the root of the project and add the following:
 5. **Run the streamlit**:
 
     ```bash
-    uvicorn main:app --reload
+    streamlit run app.py
     ```
 
 ### Setting Up GitHub OAuth
